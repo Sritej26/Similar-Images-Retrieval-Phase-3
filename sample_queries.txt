@@ -1,0 +1,4 @@
+# This file lists some sample queries which can be run on the project.
+
+# Task 1:
+python3 task1.py -l Outputs/elbp_svd_20.p -o Outputs -f test_images -c ppr
